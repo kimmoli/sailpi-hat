@@ -7121,8 +7121,8 @@ Texas Instruments and Fairchild Semiconductor, ect.&lt;br&gt;
 <text x="208.28" y="231.14" size="1.778" layer="91">i2c address 4d</text>
 <text x="274.32" y="233.68" size="1.778" layer="91">MCP3021A0T-E/OT</text>
 <text x="274.32" y="238.76" size="1.778" layer="91">i2c address 48</text>
-<text x="58.42" y="15.24" size="1.778" layer="91">SAILPI HATS</text>
-<text x="58.42" y="12.7" size="1.778" layer="91">2015 kimmoli</text>
+<text x="58.42" y="15.24" size="5.08" layer="91">SAILPI HATS v1.00</text>
+<text x="58.42" y="7.62" size="5.08" layer="91">2015 kimmoli</text>
 </plain>
 <instances>
 <instance part="X1" gate="G$1" x="50.8" y="152.4" rot="R180"/>
